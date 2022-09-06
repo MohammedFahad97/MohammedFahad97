@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedFahad97
 - 👀 I’m interested in developer
-- 🌱 I’m currently learning frontend developer
+- 🌱 I’m currently learning fullstack developer
 - 💞️ I’m looking to collaborate on remote work
 - 📫 How to reach me my whatsapp +919686639424
 
